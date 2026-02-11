@@ -1,7 +1,3 @@
-Here’s a **clean, simple, minimal GitHub README** you can use for **ibraah00**.
-You can copy-paste it directly into your profile README:
-
----
 
 # 👋 Hey, I'm Ibraah
 
@@ -30,8 +26,8 @@ I love learning, building, and improving my skills one project at a time.
 
 ## 📬 Contact
 
-**Email:** [your-email@example.com](mailto:your-email@example.com)
-**GitHub:** [github.com/ibraah00](https://github.com/ibraah00)
+**Email:** [your-email@example.com](mailto:your-ibraah568@gmail.com)
+**GitHub:** [github.com/ibraah00](https://github.com/ibraah007)
 
 ---
 
