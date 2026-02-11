@@ -27,7 +27,7 @@ I love learning, building, and improving my skills one project at a time.
 ## 📬 Contact
 
 **Email:** [ibraah568@gmail.com](mailto:your-ibraah568@gmail.com)
-**GitHub:** [github.com/ibraah00](https://github.com/ibraah007)
+**GitHub:** [github.com/ibraah007](https://github.com/ibraah007)
 
 ---
 
