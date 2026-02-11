@@ -1,16 +1,42 @@
-## Hi there 👋
+Here’s a **clean, simple, minimal GitHub README** you can use for **ibraah00**.
+You can copy-paste it directly into your profile README:
 
-<!--
-**ibraah007/ibraah007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👋 Hey, I'm Ibraah
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Developer | Tech Enthusiast**
+
+I love learning, building, and improving my skills one project at a time.
+
+---
+
+## 🚀 Tech I Use
+
+* **Go**
+* **Python**
+* **Git & GitHub**
+* **Linux**
+
+---
+
+## 🎯 What I'm Learning
+
+* Backend development
+* AI & Machine Learning
+* Building better, faster systems
+
+---
+
+## 📬 Contact
+
+**Email:** [your-email@example.com](mailto:your-email@example.com)
+**GitHub:** [github.com/ibraah00](https://github.com/ibraah00)
+
+---
+
+> *Keep learning. Keep building.*
+
+---
+
+If you want it more stylish, fun, colorful, or with badges, just tell me!
