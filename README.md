@@ -17,11 +17,11 @@ I love learning, building, and improving my skills one project at a time.
 ---
 
 ## 🎯 What I'm Learning
+# 🎯 What I'm Learning
 
-* Backend development
-* AI & Machine Learning
-* Building better, faster systems
-
+📌 Backend Development  
+📌 **Cloud & DevOps** (Docker, Kubernetes, CI/CD, Cloud Platforms)  
+📌 Building better, faster, scalable systems  
 ---
 
 ## 📬 Contact
