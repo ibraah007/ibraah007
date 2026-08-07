@@ -10,9 +10,8 @@ I love learning, building, and improving my skills one project at a time.
 ## 🚀 Tech I Use
 
 * **Go**
-* **Python**
 * **Git & GitHub**
-* **Linux**
+
 
 ---
 
