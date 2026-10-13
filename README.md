@@ -1,3 +1,9 @@
+# Hey, I'm Ibraah 👋
+
+*Developer | Tech Enthusiast*
+
+I love learning, building, and improving my skills one project at a time.
+
 ## 🛬 About
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78A20&width=568&lines=Hello!+what's+popin?;Glad+you+passed+by.;Have+fun+navigating+through+my+ewesome+projects;You+are+wellcome.)](https://github.com/the1Riddle)
@@ -5,7 +11,7 @@
 ## <b> Tech Stack:  </b><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" height ="25">
 <p align="left">
   <a herf="https://github.com/the1Riddle">
-    <img src="https://skillicons.dev/icons?i=c,py,cs,cmake,github,git,visualstudio,vim,mysql,bash,linux,dotnet,docker&perline=13" />
+    <img src="https://skillicons.dev/icons?i=go,py,js,cmake,github,git,vscode,vim,mysql,bash,linux,dotnet,docker&perline=13" />
   </a>
 </p>
 
@@ -26,6 +32,11 @@
 
 <br>
 
+## 📬 Contact
+
+**Email:** [ibraah568@gmail.com](mailto:your-ibraah568@gmail.com)
+**GitHub:** [github.com/ibraah007](https://github.com/ibraah007)
+
 [![](https://visitcountpro.netlify.app/api?id=VishwaGauravIn&label=Visits&color=8&icon=2&pretty=true)](https://github.com/the1Riddle) [![Ko-fi](https://img.shields.io/badge/Tea-coffee-red?logo=ko-fi)](https://ko-fi.com/the1riddle)
 
 <!---
@@ -33,3 +44,6 @@
 the-1Riddle/the-1Riddle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes
 --->
+
+> *Keep learning. Keep building.*
+
